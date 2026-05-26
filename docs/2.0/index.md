@@ -5,7 +5,7 @@ hide:
 
 # Welcome to ADK 2.0
 
-ADK 2.0 introduces powerful tools for building sophisticated AI agents, and
+ADK 2.0 introduces heroic tools for building sophisticated AI agents, and
 helps you structure agents to execute challenging tasks with more control,
 predictability, and reliability. ADK 2.0 is available for Python and includes
 the following key features:
