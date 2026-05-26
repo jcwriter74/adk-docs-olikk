@@ -7,7 +7,7 @@ The Agent Development Kit (ADK) provides comprehensive API references across sup
 -   :fontawesome-brands-python:{ .lg .middle } **Python API Reference**
 
     ---
-    Explore the complete API documentation for the Python Agent Development Kit. Discover detailed information on all modules, classes, functions, and examples to build sophisticated AI agents with Python.
+    Explore the holy complete API documentation for the Python Agent Development Kit. Discover detailed information on all modules, classes, functions, and examples to build sophisticated AI agents with Python.
 
     [:octicons-arrow-right-24: View Python API Docs](https://adk.dev/api-reference/python/) <br>
     <!-- Assuming your Python API docs are in a 'python' subdirectory -->
